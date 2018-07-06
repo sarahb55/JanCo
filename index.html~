@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Spectral by HTML5 UP</title>
+		<title>The January Coalition</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -21,7 +21,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<h1><a href="index.html">Spectral</a></h1>
+						<h1><a href="index.html">The January Coalition</a></h1>
 						<nav id="nav">
 							<ul>
 								<li class="special">
@@ -29,10 +29,9 @@
 									<div id="menu">
 										<ul>
 											<li><a href="index.html">Home</a></li>
-											<li><a href="generic.html">Generic</a></li>
-											<li><a href="elements.html">Elements</a></li>
-											<li><a href="#">Sign Up</a></li>
-											<li><a href="#">Log In</a></li>
+											<li><a href="about.html">About</a></li>
+										
+											
 										</ul>
 									</div>
 								</li>
@@ -43,25 +42,36 @@
 				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
-							<h2>Spectral</h2>
-							<p>Another fine responsive<br />
-							site template freebie<br />
-							crafted by <a href="http://html5up.net">HTML5 UP</a>.</p>
-							<ul class="actions">
+							<h2>The January Coalition</h2>
+							<p>a group of diverse justice and peace organizations</p>
+							<!--ul class="actions">
 								<li><a href="#" class="button special">Activate</a></li>
-							</ul>
+							</ul-->
 						</div>
 						<a href="#one" class="more scrolly">Learn More</a>
 					</section>
 
 				<!-- One -->
-					<section id="one" class="wrapper style1 special">
+					<section id="one" class="wrapper style2 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Arcu aliquet vel lobortis ata nisl<br />
-								eget augue amet aliquet nisl cep donec</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+								<h2>Statement of Values</h2>
+								<p>
+								
+<p>We are a coalition of diverse social justice, human rights, disability rights, women’s rights, and peace organizations that are coming together on the first anniversary of Donald Trump’s inauguration to voice our opposition to an administration that is systematically eroding the rights of women and other marginalized people, dismantling and destroying our democracy, and putting the entire world at risk.</p>
+<p>We have come together to affirm our common values, and we seek to ensure the rights of all people to liberty, dignity, and equal protection under the law.</p>
+
+<p>We are dedicated to the guarantee of these basic human rights for all individuals, regardless of gender, gender expression, sexual orientation, race, age, religion, nationality, immigration status, disability, economic status, geographical residence, health status, culture, and political affiliation, not just in the United States but across the planet.
+</p>
+<p>We believe that we are strengthened as a society by our diversity, and we are committed to protecting and passing laws that protect and sustain the rights of all people in our multicultural and multiethnic society.
+</p>
+<p>We are united to resist the harmful consequences of President Trump's administration on women, other marginalized groups, and the planet itself.
+</p>
+<p>We envision this event as an occasion to recognize the resistance efforts undertaken thus far, and to further mobilize our collective energies for the year ahead.
+	</p>							
+								</ol>
+								
+								</p>
 							</header>
 							<ul class="icons major">
 								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
@@ -72,68 +82,67 @@
 					</section>
 
 				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
+					<section id="two" class="wrapper alt style1">
 						<section class="spotlight">
 							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-								<h2>Magna primis lobortis<br />
-								sed ullamcorper</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+								<h2>The Boston/Cambridge Women's March<br />
+								The People Persist</h2>
+								<p>On January 20th, 2018, We the People of New England took to the streets again to show that Women's Rights are Human Rights and 
+								Human Rights are Women's Rights. Rain or shine, we welcomed everyone to our event, including families and people with disabilities.
+								<a href="https://sites.google.com/site/januarycoalition/home" target="_blank">Event Website</a>
+</p>
 							</div>
 						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Tortor dolore feugiat<br />
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>Augue eleifend aliquet<br />
-								sed condimentum</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-					</section>
-
-				<!-- Three -->
+						
+				
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Accumsan mus tortor nunc aliquet</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+								<h2>January Coalition Active Members</h2>
+								<p>Many of the January Coalition co-sponsors continue to meet monthly and support peace and social justice actions and groups. Please send us an email if you are interested in joining. </p>
+								<p>Below is a list of our active members</p>
 							</header>
 							<ul class="features">
-								<li class="icon fa-paper-plane-o">
-									<h3>Arcu accumsan</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								<li class="icon fa-users ">
+									<h5><a href="">Cambridge Area Stronger Together</a></h5>
+									<p>Our mission is to promote and defend human rights, civil rights, social justice, and the environment by building a diverse and sustainable community of activism..</p>
 								</li>
-								<li class="icon fa-laptop">
-									<h3>Ac Augue Eget</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								<li class="icon fa-users ">
+									<h5><a href="http://www.cambridgesomervilleforchange.com/">Cambridge-Somerville for Change</a></h5>
+									<p>Cambridge-Somerville for Change is an all-volunteer community group dedicated to harnessing the grassroots energy and spirit of change inspired by the Obama campaign.</p>
 								</li>
-								<li class="icon fa-code">
-									<h3>Mus Scelerisque</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								<li class="icon fa-users ">
+									<h5><a href="https://indivisiblemysticvalley.org/">Indivisible Mystic Valley</a></h5>
+									<p>Indivisible Mystic Valley – is a group of community activist coming together to make a more just and welcoming region. 
+									AS a group focused on direct action, members have organized and participated in events such as 2018 Woman’s March, 
+									the fight supremacy rallies, members of the Safe Community Act Coalition.</p>
 								</li>
-								<li class="icon fa-headphones">
-									<h3>Mauris Imperdiet</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								<li class="icon fa-users ">
+									<h5><a href="http://masspeaceaction.org/">Mass Peace Action</a></h5>
+									<p>Massachusetts Peace Action is a nonpartisan, nonprofit organization working to develop the sustained 
+									political power to foster a more just and peaceful U.S. foreign policy.</p>
+
 								</li>
-								<li class="icon fa-heart-o">
-									<h3>Aenean Primis</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								<li class="icon fa-users">
+									<h5>New England Independence Campaign</h5>
+									<p>Good-natured New England citizens who form a proud regional community and who support both
+									New England independence and the peaceful acquisition thereof.</p>
 								</li>
-								<li class="icon fa-flag-o">
-									<h3>Tortor Ut</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								<li class="icon fa-user">
+									<h5>Individuals</h5>
+									<p>Individual activists also participate on the January Coalition. Affiliated organizations include 
+									Boston Persists—Events for the Resistance, 
+									Vets for Peace, 
+									Mass ADAPT, Mass Alliance of HUD Tenants, 
+									Not One Penny — Tax March,
+									Families for Justice as Healing, 
+									Mass Poor Peoples Campaign.</p>
 								</li>
 							</ul>
 						</div>
 					</section>
 
-				<!-- CTA -->
+				<!-- CTA 
 					<section id="cta" class="wrapper style4">
 						<div class="inner">
 							<header>
@@ -146,18 +155,20 @@
 							</ul>
 						</div>
 					</section>
-
+-->
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="icons">
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-							<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+							<li><a href="https://twitter.com/JanCoalition" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/thejanuarycoalition/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/januarycoalition/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://github.com/sarahb55/JanCo" class="icon fa-github"><span class="label">Github</span></a></li>
+							<li><a href="mailto:JanuaryCoalition@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+							
+							
 						</ul>
 						<ul class="copyright">
-							<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>&copy; @ January Coalition</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</footer>
 
